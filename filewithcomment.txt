@@ -1,0 +1,6 @@
+# This is a comment line
+This is a line of code
+# Another comment
+print("Hello, world!")  # Inline comment
+# Yet another comment
+x = 5
